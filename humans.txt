@@ -4,7 +4,7 @@
 # TEAM
 
     <name> -- <role> -- <twitter>
-	A A a.a
+	A A a.aaa
 # THANKS
 
     <name>
