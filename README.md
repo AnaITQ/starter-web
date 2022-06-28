@@ -12,3 +12,6 @@ Example for Git training.
 
 ## Deployment
 Simple project.
+
+### Copyright 
+2022
