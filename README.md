@@ -9,7 +9,7 @@ Example to show different parts
 
 ## How to contribute
 Example for Git training.
-Fork this repository.
+Fork this repository and start the exercise.
 
 ## Deployment
 Simple project.
